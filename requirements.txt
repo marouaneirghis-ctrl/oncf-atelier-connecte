@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "ONCF Atelier Connecté"
+git branch -M main
+git remote add origin https://github.com/marouaneirghis-ctrl/oncf-atelier-connecte.git
+git push -u origin main
